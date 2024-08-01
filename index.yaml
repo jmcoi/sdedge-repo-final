@@ -1,0 +1,36 @@
+apiVersion: v1
+entries:
+  accesschart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-08-01T21:47:53.583163521+02:00"
+    description: A Helm chart for Kubernetes
+    digest: f8691c3b898330560287e6a1e5222edbaa2d38ceedbd99f0c1fe2678c672f29c
+    name: accesschart
+    type: application
+    urls:
+    - https://jmcoi.github.io/sdedge-repo-final/accesschart-0.1.0.tgz
+    version: 0.1.0
+  cpechart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-08-01T21:47:53.583522232+02:00"
+    description: A Helm chart for Kubernetes
+    digest: d21632fa9731fb523d575b1e6ba0b649b9989cd9c533c8283fa91789aa5d4f99
+    name: cpechart
+    type: application
+    urls:
+    - https://jmcoi.github.io/sdedge-repo-final/cpechart-0.1.0.tgz
+    version: 0.1.0
+  wanchart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-08-01T21:47:53.583863877+02:00"
+    description: A Helm chart for Kubernetes
+    digest: eaa5eae856473217561b05abea9bfd04fe77d0e6eb31a0b5a33b8d8e022a902b
+    name: wanchart
+    type: application
+    urls:
+    - https://jmcoi.github.io/sdedge-repo-final/wanchart-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-08-01T21:47:53.582642398+02:00"
